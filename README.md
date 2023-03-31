@@ -3,7 +3,8 @@
 - Linkedin (https://www.linkedin.com/in/alexescorza007/)
 - Github main link (https://github.com/SerchAlex)
 
-Soy un apasionado por los datos y la tecnologia. Me encanta el deporte y los catus.
+SOY UN JOVEN PROFESONAL APASIONADO POR LOS DATOS Y LA TECNOLOGIA. ESTOY EN BUSCA DE UNA OPORTUNIDAD PROFESIONAL PARA DESARROLLAR NUEVAS HABILIDADES
+Y SER UN DATA SCIENTIST EXPERTO
 
 ## 👨‍🎓 Educación
 
